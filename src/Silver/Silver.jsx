@@ -131,7 +131,7 @@ function Silver() {
         <div className="table-responsive mt-4">{tableData}</div>
       </section>
       <div className="text-center mt-4">
-        <Link to="/">
+        <Link to="/gold">
           <Badge bg="warning" text="dark">
             Gold Rate
           </Badge>
